@@ -18,7 +18,7 @@ More info:
 https://forums.macrumors.com/threads/gpu-kernel-panic-in-mid-2010-whats-the-best-fix.1890097/#post-23312990
 
 
-How to use:
+# How to use:
 
 1 - Make sure these .kext are original (unmodified), and loaded (About this Mac -> System Report -> Software -> Extensions):
 	ACPI_SMC_PlatformPlugin.kext (IOPlatformPluginFamily.kext)
