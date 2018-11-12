@@ -1,7 +1,6 @@
 # MBP-2010-GPU-Panic-fix
 MBP 2010 GPU Panic fix to MacBook Pro 15" mid 2010
 
-[[https://raw.githubusercontent.com/fabioiop/MBP-2010-GPU-Panic-fix/master/MBP%202010%20GPU%20Panic%20fix.png|alt=octocat]]
 
 My macrumores.com user is fabioroberto.
 I found a solution with MacBook Pro 6,2 GPU Panic problem. 
