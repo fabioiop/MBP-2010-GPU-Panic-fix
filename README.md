@@ -27,4 +27,5 @@ https://forums.macrumors.com/threads/gpu-kernel-panic-in-mid-2010-whats-the-best
 2 - Disable SIP (boot into recovery mode, terminal: csrutil disable)
 Avaliable only in OS X El Capitan or later.
 
-3 - Download MBP 2010 GPU Panic fix and run.
+3 - Download MBP 2010 GPU Panic fix and run. Here: https://github.com/fabioiop/MBP-2010-GPU-Panic-fix/releases/download/v1.0/MBP.2010.GPU.Fix.zip
+
