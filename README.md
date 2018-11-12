@@ -30,3 +30,4 @@ Avaliable only in OS X El Capitan or later.
 3 - Download MBP 2010 GPU Panic fix and run. Here: https://github.com/fabioiop/MBP-2010-GPU-Panic-fix/releases/download/v1.1/MBP.2010.GPU.Fix.zip
 
 
+4 - Choose option: run the fix or remove the previous fix.
