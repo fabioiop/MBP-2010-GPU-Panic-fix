@@ -17,6 +17,13 @@ Exemple: Cinebench, default (G-state 0) i've about 15fps, with g-state 2 (medium
 More info:
 https://forums.macrumors.com/threads/gpu-kernel-panic-in-mid-2010-whats-the-best-fix.1890097/#post-23312990
 
+# Who This Is For
+Only for MacBook Pro 15" mid 2010, model MacBook Pro 6,2. 
+
+
+# Compatibility
+Mac OS X 10.10 - macOS 10.14 Mojave
+
 
 # How to use:
 
@@ -31,6 +38,7 @@ Avaliable only in OS X El Capitan or later.
 
 
 4 - Choose option: run the fix or remove the previous fix.
+
 
 
 # Notes
