@@ -44,6 +44,7 @@ Avaliable only in OS X El Capitan or later.
 
 
 # Notes
-
-"MBP 2010 GPU Fix" can't be opened because it is from an unidentified developer: 
-System Preferences > Security & Privacy > General and allow app to run
+"MBP 2010 GPU Fix" can't be opened because it is from an unidentified developer.
+	
+	System Preferences > Security & Privacy > General and allow app to run
+ 
