@@ -28,8 +28,10 @@ Mac OS X 10.10 - macOS 10.14 Mojave
 # How to use:
 
 1 - Make sure these .kext are original (unmodified), and loaded (About this Mac -> System Report -> Software -> Extensions):
-	ACPI_SMC_PlatformPlugin.kext (IOPlatformPluginFamily.kext)
+	
+	ACPI_SMC_PlatformPlugin.kext (IOPlatformPluginFamily.kext)	
 	AppleGraphicsPowerManagement.kext
+	
 
 2 - Disable SIP (boot into recovery mode, terminal: csrutil disable)
 Avaliable only in OS X El Capitan or later.
@@ -42,5 +44,6 @@ Avaliable only in OS X El Capitan or later.
 
 
 # Notes
+
 "MBP 2010 GPU Fix" can't be opened because it is from an unidentified developer: 
 System Preferences > Security & Privacy > General and allow app to run
