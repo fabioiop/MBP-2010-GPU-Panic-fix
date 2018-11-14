@@ -1,4 +1,4 @@
-# MBP-2010-GPU-Panic-fix
+# MBP 2010 GPU Panic fix
 MBP 2010 GPU Panic fix to MacBook Pro 15" mid 2010
 
 
@@ -25,6 +25,8 @@ Only for MacBook Pro 15" mid 2010, model MacBook Pro 6,2.
 Mac OS X 10.10 - macOS 10.14 Mojave
 
 
+![Image of MBP2010GPUPanicFix](https://github.com/fabioiop/MBP-2010-GPU-Panic-fix/blob/master/MBP2010GPUPanicFix.png)
+
 # How to use:
 
 1 - Make sure these .kext are original (unmodified), and loaded (About this Mac -> System Report -> Software -> Extensions):
@@ -33,7 +35,7 @@ Mac OS X 10.10 - macOS 10.14 Mojave
 	AppleGraphicsPowerManagement.kext
 	
 
-2 - Disable SIP (boot into recovery mode, terminal: csrutil disable)
+2 - Disable SIP (boot into recovery mode, open terminal and type: csrutil disable)
 Avaliable only in OS X El Capitan or later.
 
 3 - Download MBP 2010 GPU Panic fix and run. Here: https://github.com/fabioiop/MBP-2010-GPU-Panic-fix/releases
