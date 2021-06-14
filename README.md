@@ -2,7 +2,7 @@
 MBP 2010 GPU Panic fix to MacBook Pro 15" mid 2010
 
 
-My macrumores.com user is fabioroberto.
+My macrumors.com user is fabioroberto.
 I found a solution with MacBook Pro 6,2 GPU Panic problem. 
 I discovered that this problem happens every time that g-state change between 2 to 0.
 
