@@ -24,6 +24,8 @@ Only for MacBook Pro 15" mid 2010, model MacBook Pro 6,2.
 # Compatibility
 Mac OS X 10.10 - macOS 10.15 Catalina
 
+macOS Monterey: https://github.com/fabioiop/MBP-2010-GPU-Panic-fix/issues/7#issuecomment-1160392902
+macOS Ventura 13.2: https://github.com/fabioiop/MBP-2010-GPU-Panic-fix/issues/10#issuecomment-1443188083
 
 ![Image of MBP2010GPUPanicFix](https://github.com/fabioiop/MBP-2010-GPU-Panic-fix/blob/master/MBP2010GPUPanicFix.png)
 
